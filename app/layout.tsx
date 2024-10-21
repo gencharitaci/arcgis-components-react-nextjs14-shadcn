@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "ArcGIS Components React - Nextjs & Shadcn-UI",
-  description: "ArcGIS Components React - Nextjs & Shadcn-UI Example by Adem Kurtipek",
+  title: "ArcGIS Components React - Next JS 14.x & Shadcn-UI",
+  description: "ArcGIS Components React - Next JS 14.x & Shadcn-UI Example by Adem Kurtipek",
 };
 
 export default function RootLayout({
