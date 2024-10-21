@@ -1,7 +1,8 @@
-![alt text](https://media.githubusercontent.com/media/gencharitaci/arcgis-components-react-nextjs14-shadcn/master/public/arcgis-components-react-nextjs-shadcn.gif)
-
 ## DEMO 
 [`https://arcgis-components-react-nextjs14-shadcnui.vercel.app`](https://arcgis-components-react-nextjs14-shadcnui.vercel.app)
+
+![alt text](https://media.githubusercontent.com/media/gencharitaci/arcgis-components-react-nextjs14-shadcn/master/public/arcgis-components-react-nextjs-shadcn.gif)
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
